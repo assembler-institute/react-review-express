@@ -1,0 +1,7 @@
+.logout_button {
+  cursor: pointer;
+}
+
+.logout_button:hover {
+  font-weight: bold;
+}
